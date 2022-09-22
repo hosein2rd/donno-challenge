@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Oceansound",
+    "audio": "https://gitlab.com/dono-dev/react-native-code-challenge/-/raw/main/data/Oceansound.mp3",
+    "cover": "https://gitlab.com/dono-dev/react-native-code-challenge/-/raw/main/data/Oceansound.png",
+    "totalDurationMs": 14448
+  },
+  {
+    "title": "Nightlife",
+    "audio": "https://gitlab.com/dono-dev/react-native-code-challenge/-/raw/main/data/Nightlife.mp3",
+    "cover": "https://gitlab.com/dono-dev/react-native-code-challenge/-/raw/main/data/Nightlife.png",
+    "totalDurationMs": 15696
+  },
+  {
+    "title": "Waking Me",
+    "audio": "https://gitlab.com/dono-dev/react-native-code-challenge/-/raw/main/data/Waking_Me.mp3",
+    "cover": "https://gitlab.com/dono-dev/react-native-code-challenge/-/raw/main/data/Waking_Me.png",
+    "totalDurationMs": 13776
+  }
+]
